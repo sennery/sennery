@@ -1,4 +1,4 @@
-Hello! My name is _Arsenii Likhachev_. I'm **Frontend web developer** from Russia.
+Hello! My name is Arsenii Likhachev. I'm **Frontend web developer** from Russia.
 
 > Technologies I use: JavaScript, Vue.js, Node.js, HTML, CSS, SCSS, SVG, Canvas... and study more everyday 
 
