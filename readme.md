@@ -21,7 +21,7 @@ Hello! My name is *Arsenii Likhachev*
 
 ### Contact me
 
-> [<img align="left" alt="https://sennery.github.io/landing" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://sennery.github.io/landing)
-> [<img align="left" alt="https://t.me/sennery" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/sennery)
-> [<img align="left" alt="mac452ares@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mac452ares@gmail.com)<br/>
+> [<img align="center" alt="https://sennery.github.io/landing" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://sennery.github.io/landing)
+> [<img align="center" alt="https://t.me/sennery" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/sennery)
+> [<img align="center" alt="mac452ares@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mac452ares@gmail.com)<br/>
 
