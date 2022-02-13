@@ -9,12 +9,6 @@ Hello! My name is *Arsenii Likhachev*
 - ✔️ Love web development and everything related
 - 👨🏻‍💻 More about me [here](https://sennery.github.io/landing)
 
-### Contact me
-
-> [<img align="left" alt="https://sennery.github.io/landing" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://sennery.github.io/landing)
-> [<img align="left" alt="https://t.me/sennery" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/sennery)
-> [<img align="left" alt="mac452ares@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mac452ares@gmail.com)<br/>
-
 ### Technologies I use
 
 > [<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://sennery.github.io/landing)
@@ -23,3 +17,11 @@ Hello! My name is *Arsenii Likhachev*
 > [<img align="center" alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />](https://sennery.github.io/landing)
 > [<img align="center" alt="ThreeJs" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />](https://sennery.github.io/landing)
 > [<img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](https://sennery.github.io/landing)
+
+
+### Contact me
+
+> [<img align="left" alt="https://sennery.github.io/landing" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://sennery.github.io/landing)
+> [<img align="left" alt="https://t.me/sennery" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/sennery)
+> [<img align="left" alt="mac452ares@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mac452ares@gmail.com)<br/>
+
