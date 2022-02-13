@@ -11,6 +11,6 @@ Hello! My name is Arsenii Likhachev. I'm a **Frontend web developer** from Russi
 
 **Contacts**
 
-- [Telegram](https://t.me/sennery)
-- [mac452ares@gmail.com](mailto:mac452ares@gmail.com)
-- [GitHub](https://github.com/sennery)
+ [Telegram](https://t.me/sennery)
+/ [mac452ares@gmail.com](mailto:mac452ares@gmail.com)
+/ [GitHub](https://github.com/sennery)
