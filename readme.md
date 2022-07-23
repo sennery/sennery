@@ -5,7 +5,7 @@ Hello! My name is *Arsenii Likhachev*
 ## I'm a Frontend web developer
 
 - 🎓 Computer science education
-- 💼 Web developer at [Rostelekom IT](https://rtkit.ru/)
+- 💼 Web developer at [FREUGHT](https://freught.com/)
 - ✔️ Love web development and everything related
 - 👨🏻‍💻 More about me [here][landing]
 
