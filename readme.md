@@ -2,7 +2,7 @@ Hello! My name is *Arsenii Likhachev*
 
 <!-- > Technologies I use: JavaScript, Vue.js, Node.js, HTML, CSS, SCSS, SVG, Canvas... and study more everyday  -->
 
-## I'm a Frontend web developer
+## I'm a Web Developer
 
 - 🎓 Computer science education
 - 💼 Web developer at [FREUGHT](https://freught.com/)
