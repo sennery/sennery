@@ -15,8 +15,8 @@ Hello! My name is *Arsenii Likhachev*
 > [<img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />][landing]
 > [<img align="center" alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />][landing]
 > [<img align="center" alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" />][landing]
-> [<img align="center" alt="ThreeJs" src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" />][landing]
-> [<img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />][landing]
+> [<img align="center" alt="Sass" src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />][landing]
+<!-- > [<img align="center" alt="ThreeJs" src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" />][landing] -->
 
 
 ### Contact me
