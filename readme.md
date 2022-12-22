@@ -1,13 +1,13 @@
-Hello! My name is `Arsenii Likhachev`. I'm a *software engineer*.
+Hello! My name is Arsenii Likhachev. I'm a software engineer.
 
 ## Web Developer
 
 - 🎓 Computer science education
 - 💼 Web developer at [FREUGHT](https://freught.com/)
 - 🤍 Love: 
-  - learning new things 
-  - working on interesting projects
-  - developing userful software
+  - *learning* new things 
+  - *working* on interesting projects
+  - *developing* userful software
 - 👨🏻‍💻 More about me [here][landing]
 
 ### Technologies I use
