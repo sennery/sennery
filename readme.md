@@ -1,8 +1,6 @@
-Hello! My name is *Arsenii Likhachev*
+Hello! My name is *Arsenii Likhachev*. I'm a **software engineer**.
 
-<!-- > Technologies I use: JavaScript, Vue.js, Node.js, HTML, CSS, SCSS, SVG, Canvas... and study more everyday  -->
-
-## I'm a Web Developer
+## Web Developer
 
 - 🎓 Computer science education
 - 💼 Web developer at [FREUGHT](https://freught.com/)
