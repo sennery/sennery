@@ -4,7 +4,10 @@ Hello! My name is *Arsenii Likhachev*. I'm a **software engineer**.
 
 - 🎓 Computer science education
 - 💼 Web developer at [FREUGHT](https://freught.com/)
-- ✔️ Love web development and everything related
+- 🤍 Love: 
+  - learning new things 
+  - working on interesting projects
+  - developing userful software
 - 👨🏻‍💻 More about me [here][landing]
 
 ### Technologies I use
