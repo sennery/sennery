@@ -1,4 +1,4 @@
-Hello! My name is *Arsenii Likhachev*. I'm a **software engineer**.
+Hello! My name is `Arsenii Likhachev`. I'm a *software engineer*.
 
 ## Web Developer
 
@@ -14,7 +14,7 @@ Hello! My name is *Arsenii Likhachev*. I'm a **software engineer**.
 
 > [<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />][landing]
 > [<img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />][landing]
-> [<img align="center" alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />][landing]
+> [<img align="center" alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />][landing]
 > [<img align="center" alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" />][landing]
 > [<img align="center" alt="Sass" src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />][landing]
 <!-- > [<img align="center" alt="ThreeJs" src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" />][landing] -->
