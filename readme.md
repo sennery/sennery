@@ -8,7 +8,7 @@ Hello! My name is Arsenii Likhachev. I'm a software engineer.
   - *learning* new things 
   - *working* on interesting projects
   - *developing* userful software
-- 👨🏻‍💻 More about me [here][landing]
+- 👨🏻‍💻 More about me on [sennery][landing]
 
 ### Technologies I use
 
