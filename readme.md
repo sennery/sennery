@@ -26,6 +26,6 @@ Hello! My name is Arsenii Likhachev. I am a software engineer.
 > [<img align="center" alt="https://t.me/sennery" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 > [<img align="center" alt="mac452ares@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]<br/>
 
-[landing]: https://sennery.github.io/landing
+[landing]: https://sennery.dev
 [telegram]: https://t.me/sennery
 [mail]: mailto:mac452ares@gmail.com
