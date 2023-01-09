@@ -28,4 +28,4 @@ Hello! My name is Arsenii Likhachev. I am a software engineer.
 
 [landing]: https://sennery.dev
 [telegram]: https://t.me/sennery
-[mail]: mailto:mac452ares@gmail.com
+[mail]: mailto:me@sennery.dev
