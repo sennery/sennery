@@ -1,16 +1,16 @@
-Hello! My name is Arsenii Likhachev. I am a software engineer.
+Hello! My name is Arsenii Likhachev
 
-## web developer
+## I'm a software engineer
 
 - 🎓 computer science education
-- 💼 web developer at [FREUGHT](https://freught.com/)
+- 💼 Senior Frontend Developer at [FREUGHT](https://freught.com/)
 - 🤍 love: 
   - *learning* new things 
   - *working* on interesting projects
   - *developing* userful software
 - 👨🏻‍💻 more about me on [sennery][landing]
 
-### technologies i use
+### technologies I use
 
 [<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=3178C6" />][landing]
 [<img align="center" alt="Vue" src="https://img.shields.io/badge/Vue-161616?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />][landing]
