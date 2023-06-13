@@ -2,12 +2,12 @@ Hello! My name is Arsenii Likhachev
 
 ## I'm a software engineer
 
-- 🎓 computer science education
 - 💼 Senior Frontend Developer at [FREUGHT](https://freught.com/)
 - 🤍 love: 
   - *learning* new things 
   - *working* on interesting projects
   - *developing* userful software
+- 🎓 computer science education
 - 👨🏻‍💻 more about me on [sennery][landing]
 
 ### technologies I use
